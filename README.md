@@ -6,4 +6,4 @@ This dataset has 1728 records, each record representing a car evaluation. Each c
 
 First, I applied nested grid search CV technique to final out the best model among Decision Tree, Logistic Regression, KNN, Naive Bayes, and SVM. Then, I used SVM as my final model and trained another model to get the best hyperparameter. The accuracy is 99%. 
 
-To get more information about the dataset: https://archive.ics.uci.edu/ml/datasets/car+evaluation
+To get the dataset: https://archive.ics.uci.edu/ml/datasets/car+evaluation
